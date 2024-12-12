@@ -4,3 +4,4 @@ Nama : Muhammad Arbia Rijaldi
 NIM : 1242002066
 Jurusan : Sistem Informasi
 Minat : Teknologi, Futsal dan Pemograman
+saya sedang belajar git dan github
